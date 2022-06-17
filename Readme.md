@@ -1,4 +1,4 @@
-# New Word City
+# **[New Word City](https://guymizrachi.itch.io/nwc "New Word City")**
 Where's Waldo Exploration game made for Gaming Lab Jam 3.  
 <img src="/Assets/Graphics/Definitely Cut At The Top Icon/Ship for git.png">  
 Search for hidden meaning of words in hand-drawn, interactive, miniature landscapes. Go explore our city, meet the locals, take a stroll on the beach or just go for a dance! As we always say TO-LO-LO!  
