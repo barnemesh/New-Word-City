@@ -129,7 +129,7 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _PlayerPos: {r: -19.914265, g: 2.2011929, b: 0, a: 0}
+    - _PlayerPos: {r: 1.5804654, g: 7.196857, b: 0, a: 0}
     - _Radius: {r: 2, g: 45, b: 0, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []

@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: 6b974b199e533834b82e061f501458c1
+guid: 48fb3a0339dcaa64e8af3983da3c38b9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 404137431245711500
-    second: Left Up Idle_7
+      213: -57100903563140410
+    second: left Up _7
   - first:
-      213: 155611866649315482
-    second: Left Up Idle_13
+      213: 426700766207633514
+    second: left Up _9
   - first:
-      213: -7189555766213403295
-    second: Left Up Idle_14
+      213: 4629007899705298132
+    second: left Up _13
+  - first:
+      213: 2016231776474907304
+    second: left Up _14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -77,7 +80,7 @@ TextureImporter:
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -89,43 +92,7 @@ TextureImporter:
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 8192
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 8192
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 8192
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -136,7 +103,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Left Up Idle_7
+      name: left Up _7
       rect:
         serializedVersion: 2
         x: 261
@@ -150,14 +117,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c88e6dd3ad8cb9500800000000000000
-      internalID: 404137431245711500
+      spriteID: 6c2e3ced703253ff0800000000000000
+      internalID: -57100903563140410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Left Up Idle_13
+      name: left Up _13
       rect:
         serializedVersion: 2
         x: 377
@@ -171,14 +138,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a98c7721b28d82200800000000000000
-      internalID: 155611866649315482
+      spriteID: 4dc4964c82a8d3040800000000000000
+      internalID: 4629007899705298132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Left Up Idle_14
+      name: left Up _14
       rect:
         serializedVersion: 2
         x: 493
@@ -192,8 +159,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16d1dfd5f11993c90800000000000000
-      internalID: -7189555766213403295
+      spriteID: 8a244a54e181bfb10800000000000000
+      internalID: 2016231776474907304
       vertices: []
       indices: 
       edges: []

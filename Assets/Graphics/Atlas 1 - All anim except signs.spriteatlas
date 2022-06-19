@@ -139,7 +139,6 @@ SpriteAtlas:
     - {fileID: 2800000, guid: cdc7b4aa2184f874a8ae224cf3448fb9, type: 3}
     - {fileID: 2800000, guid: 2f8f03e8dbfac47408a328ed211404d9, type: 3}
     - {fileID: 2800000, guid: fc8ad764a9bcd3c40b10a6b6653b1c3f, type: 3}
-    - {fileID: 2800000, guid: 6b974b199e533834b82e061f501458c1, type: 3}
     - {fileID: 2800000, guid: 34ab6cf4714e9074e8191a18bff86993, type: 3}
     - {fileID: 2800000, guid: 5b12dd299a16c614b8e4d46ff2e482e1, type: 3}
     - {fileID: 2800000, guid: 9d375c6c655bd8149b2456750dfc5cb7, type: 3}
@@ -301,9 +300,6 @@ SpriteAtlas:
   - {fileID: -7627960879255896079, guid: b0832f0957a61e749919e5bf5e82fc31, type: 3}
   - {fileID: -928474255249280012, guid: b0832f0957a61e749919e5bf5e82fc31, type: 3}
   - {fileID: -8948887987871686160, guid: b0832f0957a61e749919e5bf5e82fc31, type: 3}
-  - {fileID: -7189555766213403295, guid: 6b974b199e533834b82e061f501458c1, type: 3}
-  - {fileID: 155611866649315482, guid: 6b974b199e533834b82e061f501458c1, type: 3}
-  - {fileID: 404137431245711500, guid: 6b974b199e533834b82e061f501458c1, type: 3}
   - {fileID: -2196046366603561652, guid: 5b12dd299a16c614b8e4d46ff2e482e1, type: 3}
   - {fileID: -8385868304104143364, guid: 5b12dd299a16c614b8e4d46ff2e482e1, type: 3}
   - {fileID: -479138946432559599, guid: 5b12dd299a16c614b8e4d46ff2e482e1, type: 3}
@@ -542,9 +538,6 @@ SpriteAtlas:
   - Drop Water 1 Sprite Sheet_0
   - Drop Water 1 Sprite Sheet_11
   - Drop Water 1 Sprite Sheet_5
-  - Left Up Idle_14
-  - Left Up Idle_13
-  - Left Up Idle_7
   - Right Idle_6
   - Right Idle_10
   - Right Idle_12

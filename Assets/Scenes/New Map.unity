@@ -7466,11 +7466,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4332523643244653955, guid: 76f96299e3451c545af96bc451a08429, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 13.234806
+      value: 13.054807
       objectReference: {fileID: 0}
     - target: {fileID: 4332523643244653955, guid: 76f96299e3451c545af96bc451a08429, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 8.220522
+      value: 8.130522
       objectReference: {fileID: 0}
     - target: {fileID: 4332523643244653955, guid: 76f96299e3451c545af96bc451a08429, type: 3}
       propertyPath: m_LocalPosition.z
@@ -16199,11 +16199,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2253748442783254207, guid: d389bcc307b8c7145a4d46b6e33a7205, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.368883
+      value: 11.18
       objectReference: {fileID: 0}
     - target: {fileID: 2253748442783254207, guid: d389bcc307b8c7145a4d46b6e33a7205, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.69562
+      value: 6.84
       objectReference: {fileID: 0}
     - target: {fileID: 2253748442783254207, guid: d389bcc307b8c7145a4d46b6e33a7205, type: 3}
       propertyPath: m_LocalPosition.z
@@ -16476,7 +16476,6 @@ MonoBehaviour:
           m_CallState: 2
   useScriptedInteraction: 1
   stayHighlightAfterInteract: 1
-  tubeAnimator: {fileID: 6709026760896920583}
   tubeSprites:
   - {fileID: 21300000, guid: 122faa4cf0a334fb58dfc68ca4837a8f, type: 3}
   - {fileID: 21300000, guid: 7b0e59c0955ec4059b9766c5fea6a7e3, type: 3}
@@ -27605,7 +27604,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1098475856}
   - component: {fileID: 1098475857}
-  m_Layer: 0
+  - component: {fileID: 1098475858}
+  m_Layer: 6
   m_Name: Standing Dancer 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27677,6 +27677,40 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &1098475858
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1098475855}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.15, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.91, y: 1.53}
+    newSize: {x: 0.91, y: 1.53}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.29604736, y: -0.28518867}
+      - {x: -0.39612594, y: -0.28946084}
+      - {x: -0.33261123, y: -0.22377968}
+      - {x: -0.2905139, y: 0.04099655}
+      - {x: 0.05475363, y: 0.04780197}
+      - {x: 0.1080952, y: -0.22964585}
+      - {x: 0.04073152, y: -0.2556162}
+      - {x: 0.033760086, y: -0.5223926}
+      - {x: -0.2977655, y: -0.528129}
 --- !u!1001 &1104516671
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28189,11 +28223,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7361475454808279720, guid: 24cd93676370a894587bc83bddff4557, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.17999935
       objectReference: {fileID: 0}
     - target: {fileID: 7361475454808279720, guid: 24cd93676370a894587bc83bddff4557, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.09000015
       objectReference: {fileID: 0}
     - target: {fileID: 7361475454808279720, guid: 24cd93676370a894587bc83bddff4557, type: 3}
       propertyPath: m_LocalPosition.z
@@ -44644,7 +44678,7 @@ GameObject:
   - component: {fileID: 2040761224}
   - component: {fileID: 2040761226}
   - component: {fileID: 2040761225}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Standing Dancer 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44690,27 +44724,14 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.009399986, y: 0.37200004}
-      - {x: -0.060600013, y: 0.43200004}
-      - {x: -0.08060001, y: 0.522}
-      - {x: -0.10060001, y: 0.69200003}
-      - {x: -0.1606, y: 0.75200003}
-      - {x: -0.20060001, y: 0.75200003}
-      - {x: -0.23060001, y: 0.74200004}
-      - {x: -0.2806, y: 0.60200006}
-      - {x: -0.2906, y: 0.56200004}
-      - {x: -0.3306, y: 0.37200004}
-      - {x: -0.4106, y: 0.14200005}
-      - {x: -0.4106, y: -0.18799995}
-      - {x: -0.3206, y: -0.23799995}
-      - {x: -0.3106, y: -0.44799995}
-      - {x: -0.2506, y: -0.49799994}
-      - {x: -0.2106, y: -0.5379999}
-      - {x: -0.020600013, y: -0.5379999}
-      - {x: 0.07939999, y: -0.45799994}
-      - {x: 0.15939999, y: -0.18799995}
-      - {x: 0.16939998, y: -0.07799995}
-      - {x: 0.16939998, y: 0.10200004}
+    - - {x: 0.043835163, y: -0.21036911}
+      - {x: 0.11941872, y: -0.17075795}
+      - {x: -0.0008685589, y: 0.09136295}
+      - {x: -0.28063747, y: 0.08727443}
+      - {x: -0.41065598, y: -0.1674493}
+      - {x: -0.28071427, y: -0.20604992}
+      - {x: -0.2766297, y: -0.5035356}
+      - {x: 0.026110277, y: -0.4828735}
 --- !u!212 &2040761226
 SpriteRenderer:
   m_ObjectHideFlags: 0
